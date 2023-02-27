@@ -199,7 +199,7 @@ def FIRE():
 	if me in ["2", "02"]:
 		os.system('xdg-open https://facebook.com/𝘼𝘾𝙏𝙄𝙊𝙉-𝙁𝙄𝙍𝙀-107968471946247')
 	if me in ["3","03"]:
-		os.system('xdg-open https://github.com/ACTION-FIRE)
+		os.system('xdg-open https://github.com/ACTION-FIRE')
 	if me in ["4","04"]:
 		os.system('xdg-open https://youtube.com/@ON-FIRE')
 	if me in ["5","05"]:
