@@ -74,14 +74,14 @@ logo=(f"""\x1b[1;94m╔═══════════════════
 \x1b[1;94m╚═════════════════════════════════════════════════════╝
 \x1b[1;94m╔═════════════════════════════════════════════════════╗
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] DEVELOPER      :        ACTION-FIRE              \x1b[1;94m║
-\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] FACEBOOK       :        FT ALVI                 \x1b[1;94m║
+\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] FACEBOOK       :        FT ALVI                  \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] WHATSAPP       :        +9660507886505           \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] GITHUB         :        ACTION-FIRE 	      \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] YOUTUBE        :        ON-FIRE                  \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] TOOLS          :        PRO-FILE CLONER          \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] STATUS         :        PAID                     \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] VERSION        :        1.0.3.PRO                \x1b[1;94m║
-\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] Network        :        3G, 4G/5G, ON            \x1b[1;94m║
+\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] NETWORK        :        3G, 4G/5G, ON            \x1b[1;94m║
 \x1b[1;94m╚═════════════════════════════════════════════════════╝
 """)
 
@@ -168,9 +168,9 @@ def approval():
             print(55*"\033[1;92m=")
             print(f"\033[1;92m\033[1;91m[\033[1;92m•\033[1;91m]KEY : {RED}{bumper}")
             print(55*"\033[1;92m=")
-            print(f"{GREEN}7-DAYS PRICE : 200 TK ")
-            print(f"{GREEN}15-DAYS PRICE : 350 TK ")
-            print(f"{GREEN}1-MONTH PRICE : 500 TK")
+            print(f"{GREEN}[07]☞︎︎︎DAYS PRICE : 350  TK")
+            print(f"{GREEN}[15]☞︎︎︎DAYS PRICE : 500  TK")
+            print(f"{GREEN}[30]☞︎︎︎DAYS PRICE : 1000 TK")
             print(f"{BLUE}FREE APPROVAL AVAILABLE CONTACT ME ON MY WHATSAPP TO GET FREE APPROVAL")
             print(55*"\033[1;92m=")
             input("\033[1;91m[PRESS ENTER TO SEND KEY TO ADMIN]")
