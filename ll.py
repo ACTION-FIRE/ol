@@ -78,10 +78,10 @@ logo=(f"""\x1b[1;94m╔═══════════════════
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] WHATSAPP       :        +9660507886505           \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] GITHUB         :        ACTION-FIRE 	      \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] YOUTUBE        :        ON-FIRE                  \x1b[1;94m║
-\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] TOOLS          :        PRO-FILE CLONER          \x1b[1;94m║
-\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] STATUS         :        PAID                     \x1b[1;94m║
+\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] STATUS         :        \x1b[1;33mPREMIUM                  \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] VERSION        :        1.0.3.PRO                \x1b[1;94m║
 \x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] NETWORK        :        3G, 4G/5G, ON            \x1b[1;94m║
+\x1b[1;94m║\x1b[1;92m[\x1b[1;91m✔\x1b[1;92m] TOOLS          :        PRO-FILE CLONER          \x1b[1;94m║
 \x1b[1;94m╚═════════════════════════════════════════════════════╝
 """)
 
